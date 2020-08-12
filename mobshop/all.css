@@ -1,0 +1,31 @@
+﻿body {background-image:url(imges/Background.jpg);
+      background-repeat:no-repeat;
+      background-size:cover;
+
+}
+  .btnlog{
+            background-color:#ED4832; /* Green */
+            border-radius: 3px;
+            color: white;
+            font-family:Gotham;
+            padding-bottom:6px;
+            padding-top:4px;
+            padding-left:3px;
+            padding-right:3px;
+            border-color:#ED4832;
+            margin-left:5px;
+           font-size: small;
+
+                }
+   .forma{
+
+            width:220px;
+            margin-bottom:10px;
+            padding: 8px;
+            border-radius: 3px;
+            border: 1px solid #CCC;
+            background-image: none;
+            
+           
+
+         }

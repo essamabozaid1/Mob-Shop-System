@@ -1,0 +1,44 @@
+﻿body{
+    background-image:url(../img/Background.jpg);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+.box{
+    background-color:#ed4832;
+    position:absolute;
+    width:150px;
+    text-align:center;
+    left:640px;
+    top: -30px;
+    height: 19px;
+    padding:0px;   
+}
+.logo{
+    margin-top:12.5%;
+    margin-left:47%;
+    width:100px;
+    position:absolute;
+    
+
+}
+.cont{
+    position:absolute;
+    opacity:0.0;
+    left:515px;
+    top:280px;
+   
+}
+.forma{
+    margin-bottom:10px;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid #CCC;
+    background-image: none;
+    width: 270px;
+    margin-left:50px;
+    display:block
+}
+.btnlog{
+    margin-left:50px;
+
+}
